@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<siteMap>
+  <siteMapNode title="Invoice Tracker Home" description="Home Page"
+               url="default.aspx">
+    <siteMapNode title="Invoice" description="Invoice"
+                 url="Invoices.aspx">
+    </siteMapNode>
+  </siteMapNode>
+</siteMap>

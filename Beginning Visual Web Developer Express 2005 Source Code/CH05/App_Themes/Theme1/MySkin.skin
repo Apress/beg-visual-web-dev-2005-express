@@ -1,0 +1,7 @@
+<asp:Button Runat="server" ForeColor="#004000"
+            Font--Names="Verdana"
+            Font-Size="Small" BorderStyle="Solid"
+            BorderWidth="1px"
+            BorderColor="#004000" Font--Bold="True"
+            BackColor="#FFE0C0" 
+            />
